@@ -1,0 +1,10 @@
+span:hover{
+    color: green;
+    
+}
+div:hover{
+    color:orange;
+}
+span,div{
+    font-size: 30px;
+}
